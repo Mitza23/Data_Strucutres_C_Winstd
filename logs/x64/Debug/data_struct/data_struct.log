@@ -1,0 +1,5 @@
+﻿  ccstack.c
+D:\Facultate\Sem_3\BitDefender\Proiect 1\Proiect1\data_struct\ccstack.c(22,11): error C2220: the following warning is treated as an error
+D:\Facultate\Sem_3\BitDefender\Proiect 1\Proiect1\data_struct\ccstack.c(22,11): warning C4013: 'memset' undefined; assuming extern returning int
+  ccvector.c
+  Generating Code...
